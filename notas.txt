@@ -1,0 +1,3 @@
+version: php 8.2.12
+--------------------
+La aplicacion se bassa en un MVC
